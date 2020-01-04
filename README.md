@@ -10,7 +10,7 @@ Rather than your typical Kata which usually involves little more than a brief an
 
 ## Target Languages
 
-It is out hope that more languauges can be added for each kata, along with the necessary instructions to set up the required tools in order to complete each challenge. No kata should require any paid-for tools, include any advertising, large downloads or access to the internet in order to execute the code.
+Note that this main repository contains no code, just this readme and a public wiki. Specific language katas are linked beloiw. It is our hope that more languauges can be added for each kata, along with the necessary instructions to set up the required tools in order to complete each challenge. No kata should require any paid-for tools, include any advertising, large downloads or access to the internet in order to execute the code.
 
 Our supported languages and environments (so far) are:
 
