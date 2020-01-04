@@ -14,8 +14,8 @@ It is out hope that more languauges can be added for each kata, along with the n
 
 Our supported languages and environments (so far) are:
 
-1. [C#](~/agiletea/kidskata-csharp) / Visual Studio Code
-2. Python / Visual Studio Code
+1. [C#](https://github.com/agiletea/kidskata-csharp) / Visual Studio Code
+2. [Python](https://github.com/agiletea/kidskata-python) / Visual Studio Code
 
 ## Pre-Requisites
 
